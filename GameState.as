@@ -1,0 +1,1 @@
+﻿package  {		public final class GameState {		public static const INACTIVE:int = 0;		public static const ACTIVE:int = 1;		public static const PAUSED:int = 2;	}	}
